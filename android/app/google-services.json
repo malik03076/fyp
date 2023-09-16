@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182916676425",
+    "firebase_url": "https://iot-fyp-d784f-default-rtdb.firebaseio.com",
+    "project_id": "iot-fyp-d784f",
+    "storage_bucket": "iot-fyp-d784f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182916676425:android:4c92f7b1a298aecfc07898",
+        "android_client_info": {
+          "package_name": "com.example.agrotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182916676425-g7nnu5n5u8i6l4j6vk7ulln6sgpb98o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl2Kt5wvQB0MIoxDlxAvR_x6mNYqQNC6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182916676425-g7nnu5n5u8i6l4j6vk7ulln6sgpb98o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
